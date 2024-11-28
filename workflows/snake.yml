@@ -1,4 +1,3 @@
-
 name: Generate Snake
 
 
@@ -23,9 +22,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      # push the content of dist/ to the 'output' branch
-      # the content will be available at https://raw.githubusercontent.com/tomhea/tomhea/output/ , or as github page
+
       - name: push github-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
