@@ -1,4 +1,4 @@
-![Snake Animation](https://raw.githubusercontent.com/swisd/swisd/main/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![Snake Animation](https://raw.githubusercontent.com/swisd/swisd/main/github-contribution-grid-snake-dark.svg)
 <!-- ![Snake Animation](https://raw.githubusercontent.com/swisd/swisd/main/github-contribution-grid-snake.svg) -->
 
 <p></p>
