@@ -10,3 +10,4 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=3&lines=Touch+some+grass.)](https://git.io/typing-svg)
