@@ -3,11 +3,4 @@
 
 <p></p>
 
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=9&lines=Touch+some+grass.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=9&lines=......................)](https://git.io/typing-svg)
