@@ -3,4 +3,4 @@
 
 <p></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=9&lines=Loading Braincells........................................................)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=9&lines=Loading%20Braincells........................................................)](https://git.io/typing-svg)
