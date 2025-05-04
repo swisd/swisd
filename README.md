@@ -3,8 +3,8 @@
 
 <p></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swisd&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" height="150" />
-<img src="https://github-readme-stats.vercel.app/api?username=swisd&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swisd&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact&show_icons=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=swisd&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact&show_icons=true" height="150" />
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=12&lines=[Loading%20Braincells]%20%20.%20%20.%20%20.%20%20.%20%20.%20%20.)](https://git.io/typing-svg)
