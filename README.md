@@ -1,8 +1,6 @@
 ![Snake Animation](https://raw.githubusercontent.com/swisd/swisd/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![Snake Animation](https://raw.githubusercontent.com/swisd/swisd/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<p></p>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swisd&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact&show_icons=true" height="150" />
 <img src="https://github-readme-stats.vercel.app/api?username=swisd&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact&show_icons=true" height="150" />
 
