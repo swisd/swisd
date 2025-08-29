@@ -5,4 +5,4 @@
 [![STATS](https://github-readme-stats.vercel.app/api/top-langs/?username=swisd&theme=cobalt&show_icons=true&hide_border=true&layout=compact&show_icons=true&width=200)](https://github-readme-stats.vercel.app/api/top-langs/?username=swisd&show_icons=true)
 <img src="https://github-readme-stats.vercel.app/api?username=swisd&theme=cobalt&show_icons=true&hide_border=true&layout=compact&show_icons=true" height="165" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=12&lines=[Loading%20Braincells]%20%20.%20%20.%20%20.%20%20.%20%20.%20%20.;[Braincells%20Loaded!])](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&lines=[Loading%20Braincells]%20%20.%20%20.%20%20.%20%20.%20%20.%20%20.;[Braincells%20Loaded!])](https://git.io/typing-svg)
