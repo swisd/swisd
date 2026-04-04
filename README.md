@@ -14,3 +14,4 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
 ![LogicLang](https://img.shields.io/badge/LogicLang-1000?style=for-the-badge&logo=grapheneos&logoColor=ffffff&labelColor=30355a&color=30355a) ![Assembly](https://img.shields.io/badge/Assembly-1000?style=for-the-badge&logo=.net&logoColor=ffffff&labelColor=bd5c28&color=bd5c28)
 
+
