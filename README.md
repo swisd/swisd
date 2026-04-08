@@ -3,10 +3,12 @@
 ![Snake Animation](https://raw.githubusercontent.com/swisd/swisd/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 [![](./profile/top-langs.svg)](./profile/top-langs.svg)
-[//]: # (<img src="./profile/stats.svg" height="165" />)
 
-[//]: # ( ![text](https://github-readme-activity-graph.vercel.app/graph?username=swisd&hide_border=true&theme=cobalt) )
+<!--
+<img src="./profile/stats.svg" height="165" />
 
+![text](https://github-readme-activity-graph.vercel.app/graph?username=swisd&hide_border=true&theme=cobalt)
+-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&lines=[Loading%20Braincells]%20%20.%20%20.%20%20.%20%20.%20%20.%20%20.;[Braincells%20Loaded!])](https://git.io/typing-svg)
 
 
